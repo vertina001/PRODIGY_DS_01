@@ -2,6 +2,10 @@
 
 # 📊 Prodigy InfoTech – Data Analysis Internship | Task 1
 
+Output
+<img width="1215" height="928" alt="image" src="https://github.com/user-attachments/assets/80fa67cb-a4c4-429b-bdc7-93469dfa7a56" />
+
+
 Welcome to my **Prodigy InfoTech Data Analysis Internship** repository!
 
 This repository contains my submission for **Task 1**, where I explored data visualization techniques to analyze and present data effectively.
